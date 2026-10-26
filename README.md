@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Day 1: Web Development Setup Practice
 
 **Name:** Raghav Mishra
@@ -36,19 +35,19 @@ I practised the following commands:
 - `cd Screenshots` — Opens the Screenshots directory.
 - `cd ..` — Moves to the parent directory.
 
+
 ## Screenshots
 
-### Webpage
+### VS Code Setup
+![VS Code Setup](Screenshots/vscode.png)
 
-![Basic webpage](Screenshots/page.png)
+### Live Server
+![Live Server](Screenshots/live-server.png)
 
-### Elements Tab
+### Node.js
+![Node.js](Screenshots/nodejs.png)
 
-![Chrome DevTools Elements](Screenshots/elements.png)
 
-### Network Tab
-
-![Chrome DevTools Network](Screenshots/network.png)
 
 ## Technologies and Tools
 
@@ -56,6 +55,3 @@ I practised the following commands:
 - Visual Studio Code
 - Git and GitHub
 - Google Chrome DevTools
-=======
-# BCS2026513-Raghav-day01-setup-practice
->>>>>>> 95190da27d55d85ec460f25b8224ffbbbebb2e76
